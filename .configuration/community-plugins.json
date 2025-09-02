@@ -6,5 +6,7 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "better-export-pdf",
+  "obsidian-plugin-toc"
 ]
