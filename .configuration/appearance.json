@@ -1,0 +1,13 @@
+{
+  "accentColor": "#3b82f6",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "setup"
+  ]
+}
