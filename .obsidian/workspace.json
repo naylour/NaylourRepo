@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cf0117ae56d4322",
+        "id": "d94b499e8ae98522",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbff7f0f3129368",
+            "id": "7edd10c3fdde31a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стили именования в программировании - от переменных до классов.md",
+                "file": "articles/Фильтрация и сортировка заведений. PostgreSQL, Postgis, SQL, Prisma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стили именования в программировании - от переменных до классов"
-            }
-          },
-          {
-            "id": "04062d2d7784b4dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/ArticleTemplate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ArticleTemplate"
+              "title": "Фильтрация и сортировка заведений. PostgreSQL, Postgis, SQL, Prisma"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.50260543823242
   },
   "right": {
     "id": "4b6b1b05b9e5d89b",
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стили именования в программировании - от переменных до классов.md",
+                "file": "articles/Фильтрация и сортировка заведений. PostgreSQL, Postgis, SQL, Prisma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Стили именования в программировании - от переменных до классов"
+              "title": "Структура Фильтрация и сортировка заведений. PostgreSQL, Postgis, SQL, Prisma"
             }
           },
           {
@@ -196,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,13 +205,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dbff7f0f3129368",
+  "active": "7edd10c3fdde31a4",
   "lastOpenFiles": [
-    "Templates/ArticleTemplate.md",
+    "articles/Фильтрация и сортировка заведений. PostgreSQL, Postgis, SQL, Prisma.md",
+    "Excalidraw/Drawing 2025-09-03 18.21.09.excalidraw.md",
+    "articles/Prisma ORM. Почему же эта лучшая ORM для JavaScript проектов?.md",
+    "Excalidraw",
+    "templates/ArticleTemplate.md",
+    "articles/Немного про PostGIS.md",
+    "assets/Модель базы данных с адресом заведения.png",
+    "articles/Стили именования в программировании - от переменных до классов.md",
+    "articles/Как фреймворки перевернули WEB.md",
+    "().md",
+    "Модель.md",
+    "articles/PostgreSQL. Лучшая база данных(по моему мнению).md",
+    "Чарльз Симони - архитектор ранних стандартов программирования.md",
     "Стили именования в программировании - от переменных до классов.md",
+    "Templates/ArticleTemplate.md",
     "TOC.md",
     "toc.md",
-    "Чарльз Симони - архитектор ранних стандартов программирования.md",
     "Templates",
     "Без названия.base",
     "Как фреймворки перевернули WEB.md",

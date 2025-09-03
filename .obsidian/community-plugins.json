@@ -8,5 +8,7 @@
   "obsidian-kanban",
   "obsidian-git",
   "better-export-pdf",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "markdown-attributes",
+  "image-captions"
 ]

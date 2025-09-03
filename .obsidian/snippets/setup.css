@@ -129,3 +129,26 @@ th {
   width: 30%;
   background-color: #f7f7f7;
 }
+
+/* Центрирование текста */
+figcaption {
+  text-align: center;
+  font-size: 0.9em;
+  font-style: italic;
+  color: var(--text-muted); /* использует тему */
+  border-radius: 0 0 24px 24px !important;
+
+}
+
+/* Если хочешь добавить рамку вокруг всего блока */
+figure {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 24px 24px 0 0 !important;
+  padding: 6px 6px 2px !important;
+  margin: 12px auto;
+  display: inline-block;
+}
+
+.ignore-export {
+    /* display: none; */
+}

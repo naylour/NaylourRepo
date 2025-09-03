@@ -3,11 +3,12 @@
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "nativeMenus": false,
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "Iosevka",
   "interfaceFontFamily": "",
   "cssTheme": "",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "setup"
-  ]
+  ],
+  "textFontFamily": "Inter,Iosevka"
 }
